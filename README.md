@@ -12,7 +12,7 @@ The objective is to identify patient demographics, diagnosis trends, obsession a
 
 ### Health Analytics Dashboard
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](https://github.com/muhammed-swalih296/OCD_Patient_Analytics/blob/main/Health%20Dashboard.pbix)
 
 ---
 
