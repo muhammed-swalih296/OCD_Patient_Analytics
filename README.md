@@ -43,7 +43,7 @@ Performed business-style healthcare analysis to answer questions such as:
 - Average obsession score across obsession and compulsion categories
 
 ### Geder Distribution
-![SQL Result 1](screenshots/sql_results_1.png)
+![SQL Result 1](https://github.com/muhammed-swalih296/OCD_Patient_Analytics/blob/main/OCD_Screenshots/gender%20analysis.png)
 
 ### Monthly Diagnosis Trend
 ![SQL Result 2](screenshots/sql_results_2.png)
