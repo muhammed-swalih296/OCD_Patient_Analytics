@@ -21,7 +21,7 @@ The objective is to identify patient demographics, diagnosis trends, obsession a
 
 ### Dataset Structure and Data Types
 
-![Dataset Structure](screenshots/python_info.png)
+![Dataset Structure](https://github.com/muhammed-swalih296/OCD_Patient_Analytics/blob/main/OCD_Screenshots/df.info.png)
 
 ### Summary Statistics
 
