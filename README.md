@@ -145,12 +145,12 @@ OCD_Patient_Analytics/
 │   └── OCD_Patient_Analytics_Report.pdf
 │
 ├── screenshots/
-│   ├── python_info.png
-│   ├── python_summary_statistics.png
-│   ├── sql_gender_analysis.png
-│   ├── sql_monthly_trend.png
-│   ├── sql_ethnicity_analysis.png
-│   └── powerbi_dashboard.png
+│   ├── dashboard.png
+│   ├── df.info.pngs
+│   ├── df.isnull.summ().png
+│   ├── gender_analysis.png
+│   ├── monthly_trend.png
+│   └── ethnicity_analysis.png
 │ 
 ├── README.md
 └── LICENSE
