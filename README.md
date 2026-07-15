@@ -23,13 +23,13 @@ The objective is to identify patient demographics, diagnosis trends, obsession a
 
 ![Dataset Structure](https://github.com/muhammed-swalih296/OCD_Patient_Analytics/blob/main/OCD_Screenshots/df.info.png)
 
-### Summary Statistics
+### Data Quality Check
 
 ![Summary Statistics](https://github.com/muhammed-swalih296/OCD_Patient_Analytics/blob/main/OCD_Screenshots/df.isnull.sum().png)
 
 ---
 
-### 2. SQL Analysis
+### 2. Healthcare Analysis Using SQL
 
 Performed business-style healthcare analysis to answer questions such as:
 
@@ -42,7 +42,7 @@ Performed business-style healthcare analysis to answer questions such as:
 - Most common compulsion types
 - Average obsession score across obsession and compulsion categories
 
-### Geder Distribution
+### Gender Distribution
 ![SQL Result 1](https://github.com/muhammed-swalih296/OCD_Patient_Analytics/blob/main/OCD_Screenshots/gender%20analysis.png)
 
 ### Monthly Diagnosis Trend
@@ -145,11 +145,13 @@ OCD_Patient_Analytics/
 │   └── OCD_Patient_Analytics_Report.pdf
 │
 ├── screenshots/
-│   ├── dashboard.png
-│   ├── sql_results_1.png
-│   ├── sql_results_2.png
-│   └── python_eda.png
-│
+│   ├── python_info.png
+│   ├── python_summary_statistics.png
+│   ├── sql_gender_analysis.png
+│   ├── sql_monthly_trend.png
+│   ├── sql_ethnicity_analysis.png
+│   └── powerbi_dashboard.png
+│ 
 ├── README.md
 └── LICENSE
 ```
