@@ -6,13 +6,6 @@ This project focuses on analyzing **Obsessive-Compulsive Disorder (OCD)** patien
 
 The objective is to identify patient demographics, diagnosis trends, obsession and compulsion patterns, and symptom severity to support data-driven healthcare insights.
 
----
-
-## Dashboard Preview
-
-### Health Analytics Dashboard
-
-![Dashboard](https://github.com/muhammed-swalih296/OCD_Patient_Analytics/blob/main/Health%20Aanlysis%20Dashboard.png?raw=true)
 
 ---
 
@@ -25,6 +18,14 @@ The objective is to identify patient demographics, diagnosis trends, obsession a
 - Checked for missing values and data inconsistencies
 - Renamed columns using snake_case for consistency
 - Loaded the cleaned dataset into **Microsoft SQL Server** using SQLAlchemy
+
+### Dataset Structure and Data Types
+
+![Dataset Structure](screenshots/python_info.png)
+
+### Summary Statistics
+
+![Summary Statistics](screenshots/python_summary_statistics.png)
 
 ---
 
@@ -41,6 +42,16 @@ Performed business-style healthcare analysis to answer questions such as:
 - Most common compulsion types
 - Average obsession score across obsession and compulsion categories
 
+### Geder Distribution
+![SQL Result 1](screenshots/sql_results_1.png)
+
+### Monthly Diagnosis Trend
+![SQL Result 2](screenshots/sql_results_2.png)
+
+### Ethnicity Analysis
+![SQL Result 3](screenshots/sql_results_3.png)
+
+
 ---
 
 ### 3. Power BI Dashboard
@@ -55,6 +66,11 @@ Designed an interactive dashboard to visualize:
 - Average Obsession Score by Gender
 - Count of Patients by Obsession Type
 - Count of Patients by Compulsion Type
+
+### Health Analytics Dashboard
+
+![Dashboard](https://github.com/muhammed-swalih296/OCD_Patient_Analytics/blob/main/OCD_Screenshots/dashboard.png)
+
 
 Interactive slicers include:
 
