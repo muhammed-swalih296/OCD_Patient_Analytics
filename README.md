@@ -49,7 +49,7 @@ Performed business-style healthcare analysis to answer questions such as:
 ![SQL Result 2](screenshots/sql_results_2.png)
 
 ### Ethnicity Analysis
-![SQL Result 3](screenshots/sql_results_3.png)
+![SQL Result 3](https://github.com/muhammed-swalih296/OCD_Patient_Analytics/blob/main/OCD_Screenshots/ethnicity.png)
 
 
 ---
