@@ -25,7 +25,7 @@ The objective is to identify patient demographics, diagnosis trends, obsession a
 
 ### Summary Statistics
 
-![Summary Statistics](screenshots/python_summary_statistics.png)
+![Summary Statistics](https://github.com/muhammed-swalih296/OCD_Patient_Analytics/blob/main/OCD_Screenshots/df.isnull.sum().png)
 
 ---
 
